@@ -1,0 +1,28 @@
+form{
+    display: flex;
+
+}
+.firstRow{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    place-items: center;
+}
+
+.secondRow{
+  
+    display: grid;
+    grid-template-columns: auto auto auto auto; 
+    place-items: center;
+
+}
+
+.search_container{
+    margin-top: 15%;
+
+}
+
+.link{
+    width: 250px;
+    overflow-x: hidden;
+}
